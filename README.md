@@ -14,7 +14,8 @@
      Fourthly, it has temperature monitoring; it shows the inverter temperature.
 
      Also I used php  and JavaScript.
-     PHP my admin is the one I use as a database.
+     PHP my admin is the one I use as a database.![Screenshot 2022-09-28 193952](https://user-images.githubusercontent.com/73154273/192801439-bc606b06-782d-47f9-84a6-1f0333d3ae91.png)
+
 
 
 * reading inverter value and send to php code
