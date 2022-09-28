@@ -42,6 +42,8 @@
 
 
      Also I was inserted exception handling.
+     
+* In this project I am using dht11 sensor to get ambient temperature.
      ![Screenshot 2022-09-28 194611](https://user-images.githubusercontent.com/73154273/192803089-2030aec1-516a-4ca5-af82-dd38bd86eb41.png)
      
      The project data insert code. I used php language. It contribution is what ever value push on python code those values insert to data base. 
