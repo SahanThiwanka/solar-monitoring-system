@@ -48,3 +48,5 @@
      
      The project data insert code. I used php language. It contribution is what ever value push on python code those values insert to data base. 
      Get system date and time using SQL Query.
+* This is our project sensor and board arrangement.
+   ![Screenshot 2022-09-28 204544](https://user-images.githubusercontent.com/73154273/192820630-21bf7a25-98a5-4142-b9ff-3cb48c9035a6.png)
