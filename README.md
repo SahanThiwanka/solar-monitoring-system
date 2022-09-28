@@ -11,16 +11,16 @@
 ![Screenshot 2022-09-28 194247](https://user-images.githubusercontent.com/73154273/192802103-666772da-f2f8-4c65-bde2-d040dd89336e.png)
      Login interface create html, css and back end using php.
      
-     I created a dashboard with bootstrap 5 for responsive web design and used chart line to give users a better experience. This webpage is under real-time monitoring      . That means refreshing every 20 seconds . It also has a weather monitor. I  used to using the weather API to categorize that one.
+   I created a dashboard with bootstrap 5 for responsive web design and used chart line to give users a better experience. This webpage is under real-time monitoring      . That means refreshing every 20 seconds . It also has a weather monitor. I  used to using the weather API to categorize that one.
 
-     Secondly, it has previous data watching tables and it can be searched whenever I want data.
+   Secondly, it has previous data watching tables and it can be searched whenever I want data.
 
-     Thirdly I created a chart page. A Google chart helped me to create that one .
+   Thirdly I created a chart page. A Google chart helped me to create that one .
 
-     Fourthly, it has temperature monitoring; it shows the inverter temperature.
+   Fourthly, it has temperature monitoring; it shows the inverter temperature.
 
-     Also I used php  and JavaScript.
-     PHP my admin is the one I use as a database.
+   Also I used php  and JavaScript.
+   PHP my admin is the one I use as a database.
 
 
 
