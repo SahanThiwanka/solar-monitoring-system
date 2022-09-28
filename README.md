@@ -23,7 +23,7 @@
 
 * reading inverter value and send to php code
 
-     This is the main python code .It is used to read inverter values and send them to php code.
+     The main python code .It is used to read inverter values and send them to php code.
 
      As example (host='ekalafeeds.ddns.net' ,port=0000)
 
@@ -43,3 +43,6 @@
 
      Also I was inserted exception handling.
      ![Screenshot 2022-09-28 194611](https://user-images.githubusercontent.com/73154273/192803089-2030aec1-516a-4ca5-af82-dd38bd86eb41.png)
+     
+     The project data insert code. I used php language. It contribution is what ever value push on python code those values insert to data base. 
+     Get system date and time using SQL Query.
