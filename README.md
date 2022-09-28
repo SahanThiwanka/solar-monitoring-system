@@ -23,7 +23,7 @@
 
 * reading inverter value and send to php code
 
-     The main python code .It is used to read inverter values and send them to php code.
+     ^The main python code .It is used to read inverter values and send them to php code.
 
      As example (host='ekalafeeds.ddns.net' ,port=0000)
 
