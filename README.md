@@ -6,10 +6,11 @@
 
  Our website link- https://solarplant.000webhostapp.com/
  
-     Login interface 
+ * Login interface
+     
 ![Screenshot 2022-09-28 194247](https://user-images.githubusercontent.com/73154273/192802103-666772da-f2f8-4c65-bde2-d040dd89336e.png)
      Login interface create html, css and back end using php.
-
+     
      I created a dashboard with bootstrap 5 for responsive web design and used chart line to give users a better experience. This webpage is under real-time monitoring      . That means refreshing every 20 seconds . It also has a weather monitor. I  used to using the weather API to categorize that one.
 
      Secondly, it has previous data watching tables and it can be searched whenever I want data.
