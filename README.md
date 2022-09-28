@@ -2,6 +2,7 @@
  creating solar monitoring system using tcp/ip model and raspberry pi  for university iot project
  
 * Web Interface
+![Screenshot 2022-09-28 193952](https://user-images.githubusercontent.com/73154273/192801439-bc606b06-782d-47f9-84a6-1f0333d3ae91.png)
 
      Login interface create html, css and back end using php.
 
@@ -14,7 +15,7 @@
      Fourthly, it has temperature monitoring; it shows the inverter temperature.
 
      Also I used php  and JavaScript.
-     PHP my admin is the one I use as a database.![Screenshot 2022-09-28 193952](https://user-images.githubusercontent.com/73154273/192801439-bc606b06-782d-47f9-84a6-1f0333d3ae91.png)
+     PHP my admin is the one I use as a database.
 
 
 
