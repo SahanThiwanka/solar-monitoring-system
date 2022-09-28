@@ -22,27 +22,19 @@
    Also I used php  and JavaScript.
    PHP my admin is the one I use as a database.
 
-
-
 * reading inverter value and send to php code
 
    The main python code .It is used to read inverter values and send them to php code.
 
    As example (host='ekalafeeds.ddns.net' ,port=0000)
 
-
-
    Technically I used data sent to php code, using url
 
    ('http://localhost/solar%20con/solar.php')
 
-
-
    I used tcp/ip technology for read to inverter (data.read_holding_registers )
 
    I used python - pyModbusTCP library to import tcp/ip.
-
-
 
    Also I was inserted exception handling.
      
