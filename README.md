@@ -26,25 +26,25 @@
 
 * reading inverter value and send to php code
 
-     The main python code .It is used to read inverter values and send them to php code.
+   The main python code .It is used to read inverter values and send them to php code.
 
-     As example (host='ekalafeeds.ddns.net' ,port=0000)
-
-
-
-     Technically I used data sent to php code, using url
-
-     ('http://localhost/solar%20con/solar.php')
+   As example (host='ekalafeeds.ddns.net' ,port=0000)
 
 
 
-     I used tcp/ip technology for read to inverter (data.read_holding_registers )
+   Technically I used data sent to php code, using url
 
-     I used python - pyModbusTCP library to import tcp/ip.
+   ('http://localhost/solar%20con/solar.php')
 
 
 
-     Also I was inserted exception handling.
+   I used tcp/ip technology for read to inverter (data.read_holding_registers )
+
+   I used python - pyModbusTCP library to import tcp/ip.
+
+
+
+   Also I was inserted exception handling.
      
 * In this project I am using dht11 sensor to get ambient temperature.
      ![Screenshot 2022-09-28 194611](https://user-images.githubusercontent.com/73154273/192803089-2030aec1-516a-4ca5-af82-dd38bd86eb41.png)
