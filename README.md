@@ -4,8 +4,9 @@
 * Web Interface
 ![Screenshot 2022-09-28 193952](https://user-images.githubusercontent.com/73154273/192801439-bc606b06-782d-47f9-84a6-1f0333d3ae91.png)
 
-     Login interface create html, css and back end using php.
+     Login interface 
 ![Screenshot 2022-09-28 194247](https://user-images.githubusercontent.com/73154273/192802103-666772da-f2f8-4c65-bde2-d040dd89336e.png)
+     Login interface create html, css and back end using php.
 
      I created a dashboard with bootstrap 5 for responsive web design and used chart line to give users a better experience. This webpage is under real-time monitoring      . That means refreshing every 20 seconds . It also has a weather monitor. I  used to using the weather API to categorize that one.
 
